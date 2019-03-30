@@ -12,12 +12,12 @@
     <artifactId>demo</artifactId>
     <version>0.0.1</version>
     <name>demo</name>
-    <description>curso de Spring Boot Devdojo</description>
+    <description>Curso de Spring Boot Devdojo</description>
 
     <properties>
         <java.version>1.8</java.version>
-    </properties>
 
+    </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
