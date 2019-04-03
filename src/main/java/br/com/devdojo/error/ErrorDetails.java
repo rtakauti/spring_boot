@@ -11,7 +11,7 @@ public class ErrorDetails {
         return title;
     }
 
-    public void setTitle(String title) {
+    void setTitle(String title) {
         this.title = title;
     }
 
@@ -19,7 +19,7 @@ public class ErrorDetails {
         return status;
     }
 
-    public void setStatus(int status) {
+    void setStatus(int status) {
         this.status = status;
     }
 
@@ -27,7 +27,7 @@ public class ErrorDetails {
         return detail;
     }
 
-    public void setDetail(String detail) {
+    void setDetail(String detail) {
         this.detail = detail;
     }
 
@@ -35,7 +35,7 @@ public class ErrorDetails {
         return timestamp;
     }
 
-    public void setTimestamp(long timestamp) {
+    void setTimestamp(long timestamp) {
         this.timestamp = timestamp;
     }
 
@@ -43,7 +43,7 @@ public class ErrorDetails {
         return developerMessage;
     }
 
-    public void setDeveloperMessage(String developerMessage) {
+    void setDeveloperMessage(String developerMessage) {
         this.developerMessage = developerMessage;
     }
 
